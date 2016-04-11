@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.map {
+    position:absolute;
+    top:0;
+    bottom:0;width:100%;
+}
+
+/* Add slider3 to main css file to use for timeline by Brian 
+   Not sure where to place timeline
+*/
+#slider3 {
+  margin: 100px 0 100px 50px;
+  width: 500px;
+}
+
